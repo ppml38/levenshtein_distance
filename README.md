@@ -1,5 +1,5 @@
 # Levenshtein distance
-This is a Python implementation of [lavenshtein distance algorithm](https://en.wikipedia.org/wiki/Levenshtein_distance).
+This is a Python implementation of [Levenshtein distance algorithm](https://en.wikipedia.org/wiki/Levenshtein_distance).
 
 # Usage:
 ```python
